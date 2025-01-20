@@ -6,7 +6,11 @@
 I thrive on the cutting edge of technology, constantly seeking innovative solutions to complex problems.
 
 ## 🛠️ Projects
-- **Project 1**: OVERVIEW:
+- **Project 1**:There are several people who are homeless and lack of basic
+                needs such as street venders and daily wage workers, city needs best strategies to monitor and
+                provide for homeless people ensuring basic needs.
+
+- OVERVIEW:
 
 **Holistic Support for the Homeless**: Implement efficient strategies to monitor and address the needs of homeless individuals, including street vendors and daily wage workers, ensuring equitable access to essential services and resources.
 

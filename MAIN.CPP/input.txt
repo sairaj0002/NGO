@@ -1,0 +1,37 @@
+Ajay Kumar,Indian,34,1990-06-15,Y,Mumbai,High School,waiter,1234-5678-9123,N,No,,Yes,Yes,Yes,4,Anjali Kumar (Wife),Neha Kumar (Daughter),Aarav Kumar (Son),Suraj Kumar (Father)
+Sita Sharma,Indian,29,1995-03-10,Y,Mumbai,Secondary School,Housemaid,2345-6789-1234,Y,Mumbai,Job Opportunity,No,No,No,2,Manoj Sharma (Husband),Ananya Sharma (Daughter)
+Vikram Singh,Indian,41,1983-09-22,Y,Mumbai,High School,Construction Worker,3456-7890-2345,N,No,,Yes,Yes,Yes,2,Geeta Singh (Wife),Vikas Singh (Son)
+Priya Verma,Indian,37,1987-12-11,Y,Mumbai,High School,Nanny,4567-8901-3456,Y,Mumbai,Relocation,No,No,Yes,3,Ankit Verma (Husband),Siddhi Verma (Daughter),Rani Verma (Mother-in-Law)
+Ravi Patel,Indian,45,1979-01-30,Y,Mumbai,Secondary School,Shopkeeper,5678-9012-4567,Y,Mumbai,Career Growth,No,No,Yes,5,Sonal Patel (Wife),Krishna Patel (Son),Aishwarya Patel (Daughter),Rita Patel (Mother),Hiral Patel (Father)
+Pooja Gupta,Indian,31,1993-04-19,Y,Mumbai,High School,Street Vendor,6789-0123-5678,N,No,,No,No,2,Arvind Gupta (Husband),Rohit Gupta (Son)
+Amit Joshi,Indian,39,1985-06-25,Y,Mumbai,High School,Electrician,7890-1234-6789,N,No,,Yes,Yes,3,Neelam Joshi (Wife),Arjun Joshi (Son),Raj Joshi (Brother)
+Meera Reddy,Indian,50,1974-07-09,Y,Mumbai,High School,Domestic Worker,8901-2345-7890,Y,Mumbai,Job Opportunity,No,No,Yes,1,Manoj Reddy (Husband)
+Sunil Nair,Indian,33,1991-08-14,Y,Mumbai,High School,Driver,9012-3456-8901,N,No,,No,Yes,2,Neelima Nair (Wife),Aadhya Nair (Daughter)
+Rahul Menon,Indian,28,1996-02-19,Y,Mumbai,High School,Security Guard,0123-4567-8901,N,No,,No,No,1,Sunita Menon (Mother)
+Neelam Sharma,Indian,40,1984-11-03,Y,Mumbai,High School,Housekeeper,1234-5678-9012,N,No,,No,Yes,3,Manoj Sharma (Husband),Vikram Sharma (Son),Rakhi Sharma (Daughter)
+Harish Rao,Indian,46,1978-05-21,Y,Mumbai,Secondary School,Taxi Driver,2345-6789-0123,Y,Mumbai,Corporate Shift,No,No,Yes,4,Geeta Rao (Wife),Neha Rao (Daughter),Anil Rao (Son),Radha Rao (Mother)
+Sonia Iyer,Indian,30,1994-07-17,Y,Mumbai,Secondary School,Factory Worker,3456-7890-1234,Y,Mumbai,Family Relocation,No,No,Yes,2,Rajesh Iyer (Husband),Devika Iyer (Daughter)
+Anjali Rao,Indian,38,1986-11-05,Y,Mumbai,High School,home made ,4567-8901-2345,N,No,,Yes,Yes,1,Krishna Rao (Husband)
+Kavita Joshi,Indian,27,1997-09-09,Y,Mumbai,High School,Clerk,5678-9012-3456,Y,Mumbai,Better Job Offer,No,No,Yes,3,Shankar Joshi (Father),Aarti Joshi (Mother),Dinesh Joshi (Brother)
+Tanuja Patel,Indian,32,1992-02-25,Y,Mumbai,High School,Sales Assistant,6789-0123-5678,Y,Mumbai,Self-Employment,No,Yes,2,Krishna Patel (Husband),Rani Patel (Daughter)
+Arun Mehta,Indian,29,1995-10-10,Y,Mumbai,Secondary School,Shop Assistant,7890-1234-5678,N,No,,Yes,Yes,1,Anita Mehta (Mother)
+Shalini Soni,Indian,43,1981-03-28,Y,Mumbai,Secondary School,Cook,8901-2345-6789,Y,Mumbai,To Pursue Specialization,No,No,Yes,3,Rajesh Soni (Husband),Aarav Soni (Son),Sanya Soni (Daughter)
+Aakash Jain,Indian,36,1988-12-11,Y,Mumbai,High School,Street Cleaner,9012-3456-7890,Y,Mumbai,Relocation for Career,No,No,Yes,2,Anju Jain (Wife),Kavya Jain (Daughter)
+Nisha Kapoor,Indian,44,1980-01-05,Y,Mumbai,High School,Garbage Collector,0123-4567-8901,N,No,,No,Yes,2,Amar Kapoor (Husband),Riya Kapoor (Daughter)
+Vijay Yadav,Indian,29,1995-06-13,Y,Mumbai,High School,Construction Laborer,1234-5678-9012,Y,Mumbai,Family Migration,No,Yes,3,Neelam Yadav (Wife),Nishant Yadav (Son),Varun Yadav (Brother)
+Sunita Bhagat,Indian,51,1973-04-23,Y,Mumbai,High School,Housemaid,2345-6789-0123,Y,Mumbai,Retirement,No,No,Yes,2,Manoj Bhagat (Husband),Rohit Bhagat (Son)
+Kiran Choudhury,Indian,35,1989-05-17,Y,Mumbai,High School,Security Guard,3456-7890-1234,Y,Mumbai,Job Relocation,No,No,Yes,3,Deepak Choudhury (Husband),Ravi Choudhury (Son),Leela Choudhury (Mother)
+Shankar Kumar,Indian,28,1996-01-15,Y,Mumbai,High School,Day Laborer,4567-8901-2345,N,No,,No,Yes,2,Meera Kumar (Wife),Vishal Kumar (Son)
+Manish Bansal,Indian,39,1985-08-03,Y,Mumbai,High School,Delivery Man,5678-9012-3456,Y,Mumbai,Health Reasons,No,No,Yes,4,Seema Bansal (Wife),Kritika Bansal (Daughter),Ayaan Bansal (Son),Pooja Bansal (Mother)
+Ravi Deshmukh,Indian,41,1983-07-12,Y,Mumbai,Secondary School,Factory Worker,6789-0123-4567,Y,Mumbai,Better Career Opportunity,No,Yes,3,Aarti Deshmukh (Wife),Rohit Deshmukh (Son),Neha Deshmukh (Daughter)
+Poonam Yadav,Indian,34,1990-09-18,Y,Mumbai,High School,Homemade,7890-1234-5678,N,No,,No,Yes,2,Vijay Yadav (Husband),Ravi Yadav (Son)
+Shweta Nair,Indian,40,1984-04-11,Y,Mumbai,High School,Domestic Worker,8901-2345-6789,Y,Mumbai,Social Work,No,No,Yes,3,Manoj Nair (Husband),Divya Nair (Daughter),Arvind Nair (Son)
+Aarti Mishra,Indian,27,1997-12-04,Y,Mumbai,High School,Street Vendor,9012-3456-7890,Y,Mumbai,Freelancing,No,Yes,2,Rohit Mishra (Husband),Kavya Mishra (Daughter)
+Vishal Dubey,Indian,33,1991-11-23,Y,Mumbai,High School,Mechanic,0123-4567-8901,Y,Mumbai,Environmental Work,No,No,Yes,3,Rekha Dubey (Wife),Arvind Dubey (Son),Aditi Dubey (Daughter)
+Harshit ,Indian,23, 1991-11-23,Y,belagavi ,puc pass ,Free lancer ,0123-4567-0001,N,n
+Krishna patil,Indian,22,22-12-2002,Y,Belagavi,10th pass,No job,2233-4455-3344,N,n
+Aditya sharma,Indian,20,01-01-2004,Y,America,10th pass,free lancer ,2233-4455-0005,N,n
+Priya Verma,Indian,37,1987-12-11,Y,Mumbai,High School,Nanny,4567-8901-3456,Y,Mumbai,Relocation,Sudden fainting 
+Priya Verma,Indian,37,1987-12-11,Y,Mumbai,High School,Nanny,4567-8901-3456,Y,Mumbai,Relocation,Sudden fainting
+Raghav,Indian,26,1999-11-11,Y,Belgaum,Ba,Labour,2312-3422-3423,N,yes
+Priya Verma,Indian,37,1987-12-11,Y,Mumbai,High School,Nanny,4567-8901-3456,Y,Mumbai,Relocation,Need Blood

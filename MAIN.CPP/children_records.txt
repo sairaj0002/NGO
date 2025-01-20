@@ -1,0 +1,10 @@
+1|Aarav Sharma|10|A|123, ABC Street, belgaum
+2|Isha Patel|9|B|456, XYZ Road,belgaum
+3|Mohit Kumar|11|A|789, PQR Colony, belgaum
+4|Priya Reddy|8|A|101, LMN Avenue, belgaum
+5|Aanya Verma|10|B|202, OPQ Lane, belgaum
+6|Rohan Singh|12|C|303, RST Park, belgaum
+7|Neha Gupta|9|A|404, UVW Square,belgaum
+8|Kabir Joshi|11|B|505, WXY Block, belgaum
+9|Madhavi Nair|8|A|606, ZAB Street, belgaum
+10|Vikram Mehta|10|C|707, CDE Road,belgaum

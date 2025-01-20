@@ -6,9 +6,37 @@
 I thrive on the cutting edge of technology, constantly seeking innovative solutions to complex problems.
 
 ## 🛠️ Projects
-- **Project 1**:There are several people who are homeless and lack of basic
-                needs such as street venders and daily wage workers, city needs best strategies to monitor and
-                provide for homeless people ensuring basic needs
+- **Project 1**:### OVERVIEW:
+
+**Holistic Support for the Homeless**: Implement efficient strategies to monitor and address the needs of homeless individuals, including street vendors and daily wage workers, ensuring equitable access to essential services and resources.
+
+**Resource Allocation and Management**: Utilize advanced algorithms and data analytics to optimize the distribution of food, shelter, and healthcare resources for the homeless population.
+
+**Real-Time Monitoring**: Deploy IoT-enabled devices and GIS mapping to track the locations and conditions of homeless individuals, facilitating immediate and targeted interventions.
+
+**Community Engagement Platforms**: Develop user-friendly apps and dashboards for administrators, NGOs, and citizens to report, track, and assist homeless individuals in real time.
+
+---
+
+### TECHNICAL STACK:
+
+**Languages**: Python, C++  
+**Algorithms**: Linear Programming, Graph Matching, Resource Allocation Algorithms, Real-Time Data Processing  
+**Tools**: GIS Mapping, IoT Sensors, Data Analytics Frameworks  
+
+---
+
+### IMPACT:
+
+**Social Equity**: Ensures that vulnerable populations, including street vendors and daily wage workers, have access to basic needs like food, shelter, and medical care.
+
+**Enhanced Urban Resilience**: Builds a robust system to address homelessness effectively, reducing the social and economic strain on city resources.
+
+**Economic Upliftment**: Encourages economic participation by supporting street vendors and daily wage workers, contributing to overall urban growth.
+
+**Improved Public Health**: Provides timely access to healthcare services and basic hygiene, reducing the spread of diseases and improving quality of life.
+
+**Model for Inclusive Urban Planning**: Establishes a scalable and replicable framework for other cities to address homelessness while promoting sustainability and social justice.
 
 
 ## 🚀 Skills

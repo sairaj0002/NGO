@@ -20,7 +20,7 @@ I thrive on the cutting edge of technology, constantly seeking innovative soluti
 
 ### TECHNICAL STACK:
 
-**Languages**: Python, C++  
+**Languages**: C++  
 **Algorithms**: Linear Programming, Graph Matching, Resource Allocation Algorithms, Real-Time Data Processing  
 **Tools**: GIS Mapping, IoT Sensors, Data Analytics Frameworks  
 
@@ -43,7 +43,7 @@ I thrive on the cutting edge of technology, constantly seeking innovative soluti
 
 
 ## 🚀 Skills
-- C++, Python ,Html
+- C, C++, Python ,Html
 - Data Structures and Algorithms
 
 
@@ -60,7 +60,7 @@ I thrive on the cutting edge of technology, constantly seeking innovative soluti
 <dt>Course Code</dt>
 <dd>24ECAC203</dd>
 <dt>Name</dt>
-<dd>Sairaj Ashok Chachadi</dd>
+<dd>Sairaj Ashok. Chachadi</dd>
 <dt>SRN</dt>
 <dd>02fe23bci011</dd>
 <dt>Course Instructor</dt>
